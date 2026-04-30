@@ -38,6 +38,6 @@ This project is an AI-based Smart Traffic Management System that helps in optimi
 * Integration with live CCTV feeds
 * Automation using IoT
 
-## 👩‍💻 Author
+##  Author
 
 Riya Ramteke
